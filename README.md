@@ -23,11 +23,11 @@ Si no les llegan a funcionar, es posible que el problema es que tengan una versi
 En esta sección deben eliminar esta línea de texto, borrar la leyenda "Integrante n" y escribir su nombre empezando por apellidos y su número de cuenta.
 
 + Integrante 1
-    - No. de Cuenta: 
+    - Fernandez Morales Juan Carlos
+    - No. de Cuenta: 321068361
 + Integrante 2
-    - No. de Cuenta: 
-+ Integrante 3
-    - No. de Cuenta: 
+    - Jesús Echeverria Verduzco
+    - No. de Cuenta: 321239167 
 
 ## Comentarios
 
