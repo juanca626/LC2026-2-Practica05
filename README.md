@@ -28,7 +28,3 @@ En esta sección deben eliminar esta línea de texto, borrar la leyenda "Integra
 + Integrante 2
     - Jesús Echeverria Verduzco
     - No. de Cuenta: 321239167 
-
-## Comentarios
-
-Recuerden que opcionalmente pueden agregar un comentario (ver los lineamientos de entrega). Si es el caso, borren esta línea y dejen su comentario.

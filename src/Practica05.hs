@@ -1,3 +1,4 @@
+--Probado con cabal 4.18.2.1
 module Practica05 where
 
 import Terminos
